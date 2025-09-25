@@ -39,7 +39,4 @@ lib/
 
 ## 📸 Demo
 
-
-
-https://github.com/user-attachments/assets/62b284c4-a3aa-44d4-80c7-4a8318a3b9d0
-
+![demo](https://github.com/user-attachments/assets/3f58900e-5eae-443e-9352-6afd27c7c985)
