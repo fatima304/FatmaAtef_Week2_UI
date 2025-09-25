@@ -1,16 +1,44 @@
-# animation_app
+# 📱 Anime App UI
 
-A new Flutter project.
+This is a **UI-only anime streaming app**, designed to showcase clean and modular UI architecture for a mobile application.
 
-## Getting Started
+## 🎯 App Purpose
+The app provides a modern, user-friendly interface for an anime streaming experience. Users can:
 
-This project is a starting point for a Flutter application.
+- 🎥 View featured anime (e.g., *Demon Slayer*)  
+- 🌟 See top anime characters  
+- 💎 Check available subscription plans (monthly/annually)  
+- 🧭 Navigate between home and upgrade screens  
 
-A few resources to get you started if this is your first Flutter project:
+## 🧼 Clean UI Architecture
+The app follows a **modular structure** inspired by Clean Architecture but focused on the **presentation/UI layer only**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📁 Project Structure
+lib/
+├── core/
+│   └── constants/       # App-wide constants (e.g., colors, strings, styles)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+├── features/
+│   └── home/
+│       ├── data/        # Placeholder for models or mock data
+│       └── ui/
+│           ├── screens/ # Main UI screens (Home, Details, Subscription)
+│           └── widgets/ # Reusable UI components (e.g., cards, buttons)
+
+
+## 💡 Why This Structure?
+✅ Separation of concerns: Each part of the UI is isolated for clarity and reusability.  
+📦 Scalable: Easy to add more features/modules (e.g., profile, search, watchlist).  
+🧪 Testable: Easier to test UI components individually.  
+💅 Reusable: Widgets can be reused across screens or features.  
+
+## 🛠 Built With
+- Flutter (assuming from your structure)  
+- Dart  
+- Modular UI architecture  
+
+## 📸 UI Preview
+The UI includes:
+- A **Home Screen** with featured anime and top characters.  
+- A **Details Screen** showing selected anime like *Demon Slayer*.  
+- An **Upgrade Screen** offering monthly and yearly plans.  
