@@ -32,11 +32,9 @@ lib/
 🧪 Testable: Easier to test UI components individually.  
 💅 Reusable: Widgets can be reused across screens or features.  
 
-## 🛠 Built With
-- Flutter (assuming from your structure)  
-- Dart  
-- Modular UI architecture  
 
 ## 📸 Demo
 
-![demo](https://github.com/user-attachments/assets/3f58900e-5eae-443e-9352-6afd27c7c985)
+https://github.com/user-attachments/assets/75ba80bd-9faf-44a8-9742-32cf003ec42e
+
+
