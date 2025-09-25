@@ -19,7 +19,7 @@ class _BottomNavBarState extends State<BottomNavBar> {
     HomePage(),
     UpgradePage(),
     Center(child: Text("Search Page", style: TextStyle(fontSize: 22))),
-    Center(child: Text("Global", style: TextStyle(fontSize: 22))),
+    Center(child: Text("Global Page", style: TextStyle(fontSize: 22))),
     Center(child: Text("Settings Page", style: TextStyle(fontSize: 22))),
   ];
 
