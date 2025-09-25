@@ -37,8 +37,9 @@ lib/
 - Dart  
 - Modular UI architecture  
 
-## 📸 UI Preview
-The UI includes:
-- A **Home Screen** with featured anime and top characters.  
-- A **Details Screen** showing selected anime like *Demon Slayer*.  
-- An **Upgrade Screen** offering monthly and yearly plans.  
+## 📸 Demo
+
+
+
+https://github.com/user-attachments/assets/62b284c4-a3aa-44d4-80c7-4a8318a3b9d0
+
